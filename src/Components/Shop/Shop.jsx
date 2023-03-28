@@ -35,7 +35,7 @@ const Add_Cart=(product)=>{
 }
       </div>
       <div className="cart-con p-1 ">
-<h1 className='font-bold'>Order Summary</h1>
+<h1 className='font-bold'>Order Summary:</h1>
 <p>Selected Item: {cart.length}</p>
       </div>
     </div>
